@@ -1,4 +1,5 @@
 # Simple example of using htmx with go
+![](https://i.ytimg.com/vi/TlrFH-oPyLo/maxresdefault.jpg)
 ## Usage:
 
 1. Clone this repo
